@@ -1,0 +1,500 @@
+   18  git fetch
+   19  git init
+   20  git remote add origin https://VirHanna/hello_world.git
+   21  git fetch
+   22  git push -u origin master
+   23  git init
+   24  git remote add origin https://github.com/VirHanna/Hello_world.git
+   25  git fetch
+   26  git checkout master
+   27  git push -u origin master
+   28  git checkout -b master
+   29  git checkout master
+   30  git push -u origin master
+   31  git add .
+   32  git commit -m "Initial commit"
+   33  git push -u origin master
+   34  git remote add origin https://github.com/VirHanna/Hello_world.git
+   35  git fetch
+   36  git checkout main
+   37  ls
+   38  echo "# Hello World" > README.md
+   39  git add README.md
+   40  git commit -m "Add README.md"
+   41  git config --annabasha527@gmail.com
+   42  git push origin main
+   43  ls
+   44  git push -u origin main
+   45  git status
+   46  git status
+   47  git status
+   48  git status
+   49  git add src
+   50  git status
+   51  git status
+   52  git commit -m "Added hello world class"
+   53  git config --annabasha527@gmail.com
+   54  git status
+   55  git commit -m "Added hello world class"
+   56  git config --annabasha527@gmail.com
+   57  git push -u origin main
+   58  git status
+   59  git commit  -m "Added hello world class"
+   60  git push -u origin main
+   61  git init
+   62  git remote add origin https://github.com/VirHanna/hello_world1.git
+   63  git fetch
+   64  git checkout main
+   65  ls
+   66  git status
+   67  git status
+   68  git rm --cached .idea/.gitignore
+   69  git commit -m "Remove .idea/.gitignore and update .gitignore"
+   70  git push origin main
+   71  git status
+   72  git add --all
+   73  git status
+   74  git commit -m 'Added hello world class'
+   75  git status
+   76  git push -u origin main
+   77  git init
+   78  git commit -m "first commit" 
+   79  git branch -M main 
+   80  git remote add origin https://github.com/VirHanna/Module8.git 
+   81  git push -u origin main 
+   82  git add --all
+   83  git init
+   84  git init
+   85  git commit -m "first commit"
+   86  git branch -M main
+   87  git add .
+   88  git commit -m "first commit"
+   89  git init
+   90  git add .
+   91  git commit -m "first commit"
+   92  git init 
+   93  git add README.md 
+   94  git commit -m "first commit" 
+   95  git branch -M main 
+   96  git remote add origin https://github.com/VirHanna/Module8.git 
+   97  git push -u origin main 
+   98  [200~cd /c/JV/Module8
+   99  cd /c/JV/Module8
+  100  ls
+  101  ls
+  102  git add index.html 
+  103  pwd
+  104  echo '<h1>Hello, GitHub Pages!</h1>' > index.html
+  105  git add index.html 
+  106  git init 
+  107  git commit -m "first commit" 
+  108  git branch -M main 
+  109  git remote add origin https://github.com/VirHanna/Module8.git 
+  110  git push -u origin main 
+  111  git init 
+  112  git commit -m "first commit" 
+  113  git branch -M main 
+  114  git remote add origin https://github.com/VirHanna/Module8.git 
+  115  git push -u origin main 
+  116  ls
+  117  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  118  ls
+  119  git init 
+  120  git commit -m "first commit" 
+  121  git branch -M main 
+  122  git remote add origin https://github.com/VirHanna/Module9_task1.git 
+  123  git push -u origin main 
+  124  git init 
+  125  git commit -m "first commit" 
+  126  git add . 
+  127  git commit -m "first commit" 
+  128  git branch -M main 
+  129  git remote add origin https://github.com/VirHanna/Module9_task1.git 
+  130  git push -u origin main 
+  131  ls
+  132  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  133  ls
+  134  git init 
+  135  git add .
+  136  git commit -m "first commit" 
+  137  git branch -M main 
+  138  git remote add origin https://github.com/VirHanna/Module9_task2.git 
+  139  git push -u origin main 
+  140  ls
+  141  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  142  ls
+  143  git init
+  144  git all .
+  145  git add .
+  146  git commit -m "first commit" 
+  147  git branch -M main 
+  148  git remote add origin https://github.com/VirHanna/Module9_task3.git 
+  149  git push -u origin main 
+  150  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  151  ls
+  152  git init
+  153  git add .
+  154  git commit -m "first commit" 
+  155  git branch -M main 
+  156  git remote add origin https://github.com/VirHanna/Module9_task4.git 
+  157  git push -u origin main 
+  158  echo '<h1>Hello, GitHub Pages!</h1>' > index.html~
+  159  ls
+  160  ls
+  161  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  162  ls
+  163  git init
+  164  git add .
+  165  git commit -m "first commit" 
+  166  git branch -M main 
+  167  git remote add origin https://github.com/VirHanna/Module9_task5.git 
+  168  git push -u origin main 
+  169  ls
+  170  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  171  ls
+  172  git init
+  173  git add .
+  174  git commit -m "first commit" 
+  175  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  176  ls
+  177  git init
+  178  git add .
+  179  git commit -m "first commit" 
+  180  git branch -M main 
+  181  git remote add origin https://github.com/VirHanna/Module11.git 
+  182  git push -u origin main 
+  183  ls
+  184  git init
+  185  git add .
+  186  git commit -m "first commit" 
+  187  git branch -M main 
+  188  git remote add origin https://github.com/VirHanna/Module11.git 
+  189  git push -u origin main 
+  190  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  191  ls
+  192  git init
+  193  git add .
+  194  git commit -m "first commit" 
+  195  git branch -M main 
+  196  git remote add origin https://github.com/VirHanna/Module9.git 
+  197  git push -u origin main 
+  198  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  199  ls
+  200  git init
+  201  git add .
+  202  git commit -m "first commit" 
+  203  git branch -M main 
+  204  git remote add origin https://github.com/VirHanna/Module10.git 
+  205  git push -u origin main 
+  206  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  207  ls
+  208  git init
+  209  git add .
+  210  git commit -m "first commit" 
+  211  git branch -M main 
+  212  git remote add origin https://github.com/VirHanna/Mod10.git 
+  213  git push -u origin main 
+  214  echo '<h1>Hello, GitHub Pages!</h1>' > index.html
+  215   
+  216  ls
+  217  git init 
+  218  git add .
+  219  git commit -m "first commit" 
+  220  git branch -M main 
+  221  git remote add origin https://github.com/VirHanna/Module12.git 
+  222  git push -u origin main 
+  223  echo '<h1>Hello, GitHub Pages!</h1>' > index.html
+  224   
+  225  ls
+  226  git init 
+  227  git add .
+  228  git commit -m "first commit" 
+  229  git branch -M main 
+  230  git remote add origin https://github.com/VirHanna/Module10.git 
+  231  git push -u origin main 
+  232  ls
+  233  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  234  git init
+  235  git add .
+  236  git commit -m "first commit" 
+  237  git branch -M main 
+  238  git remote add origin https://github.com/VirHanna/Module10.git 
+  239  git push -u origin main 
+  240  echo '<h1>Hello, GitHub Pages!</h1>' > index.html
+  241  ls
+  242  git init
+  243  git add .
+  244  git commit -m "first commit" 
+  245  git branch -M main 
+  246  git remote add origin https://github.com/VirHanna/Module13.git 
+  247  git push -u origin main 
+  248  git init
+  249  git add .
+  250  git commit -m "first commit" 
+  251  git branch -M main 
+  252  git remote add origin https://github.com/VirHanna/Module13.git 
+  253  git push -u origin main 
+  254  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  255  git init
+  256  git add .
+  257  git commit -m "first commit" 
+  258  git branch -M main 
+  259  git remote add origin https://github.com/VirHanna/Module13.git 
+  260  git push -u origin main 
+  261  echo '<h1>Hello, GitHub Pages!</h1>' > index.html 
+  262  git add .
+  263  git commit -m "first commit" 
+  264  git branch -M main 
+  265  git remote add origin https://github.com/VirHanna/Module13.git 
+  266  git push -u origin main 
+  267  git init
+  268  git add .
+  269  git commit -m "first commit" 
+  270  git branch -M main 
+  271  git remote add origin https://github.com/VirHanna/myname.git 
+  272  git push -u origin main
+  273  git config --global --add safe.directory C:/JV/myname/myname
+  274  git add .
+  275  git commit -m "first commit"
+  276   
+  277  git branch -M main 
+  278  git remote add origin https://github.com/VirHanna/myname.git 
+  279  git push -u origin main 
+  280  git init
+  281  git add .
+  282  git commit -m "first commit"
+  283  git branch -M main 
+  284  git remote add origin https://github.com/VirHanna/myname.git
+  285  git push -u origin main 
+  286  ./gradlew jar
+  287  java -jar myname.jar
+  288  cd C:\JV\myname1
+  289  git checkout -b bashahanna 
+  290  git config --global --add safe.directory C:/JV/java-dev-homework-module-14-code-quality 
+  291  git checkout -b bashahanna
+  292  git status
+  293  git add .
+  294  git commit -m "Refactoring_reviewmod14" 
+  295  git push origin bashahanna 
+  296  git remote -v 
+  297  git remote set-url origin https://github.com/VirHanna/java-dev-homework-module-14-code-quality.git 
+  298  git remote -v 
+  299  git push origin bashahanna 
+  300  rm -r gradle
+  301  gradle jar
+  302  gradle wrapper --gradle-version 8.13 
+  303  ./gradlew jar
+  304  java -jar myname1-0.1.0.jar
+  305  git init 
+  306  git add .
+  307  git commit -m "first commit" 
+  308  git branch -M main 
+  309  git remote add origin https://github.com/VirHanna/myname1.git 
+  310  git push -u origin main 
+  311  git init
+  312  git add .
+  313  git commit -m "first commit" 
+  314  git branch -M main 
+  315  git remote add origin https://github.com/VirHanna/myname.git 
+  316  git push -u origin main 
+  317  rm -r build
+  318  gradle jar
+  319  ./gradlew jar
+  320  git init
+  321  git add .
+  322  git commit -m "first commit" 
+  323  git branch -M main 
+  324  git remote add origin https://github.com/VirHanna/myname1.git 
+  325  git push -u origin main 
+  326  git status
+  327  git add .
+  328  git commit -m "Refactored playerMove method and added input validation" 
+  329  git push origin bashahanna 
+  330  gradle test 
+  331  gradle test 
+  332  git init
+  333  git add .
+  334  git commit -m "first commit" 
+  335  git branch -M main 
+  336  git remote add origin https://github.com/VirHanna/javdev_mod3.git 
+  337  git push -u origin main 
+  338  git init
+  339  git add .
+  340  git commit -m "first commit" 
+  341  git branch -M main 
+  342  git push -u origin main 
+  343  git add .
+  344  git commit -m "Test names have been changed" 
+  345  git push -u origin main
+  346  git init
+  347  git add .
+  348  git commit -m "first commit" 
+  349  git branch -M main 
+  350  git remote add origin https://github.com/VirHanna/javdev_mod4.git 
+  351  git push -u origin main 
+  352  git init
+  353  git add .
+  354  git commit -m "first commit" 
+  355  git branch -M main
+  356  git remote add origin https://github.com/VirHanna/FibonacciAlgorithms.git 
+  357  git push -u origin main 
+  358  git init
+  359  git add src 
+  360  git commit -m "first commit" 
+  361  git remote add origin https://github.com/VirHanna/FibonacciAlgorithms.git 
+  362  git push -u origin main 
+  363  git init
+  364  git add .
+  365  git commit -m "first commit" 
+  366  git init
+  367  git add src/ 
+  368  git add sql/ 
+  369  git add gradle/ 
+  370  git add build.gradle 
+  371  git add settings.gradle 
+  372  git add .gitignore 
+  373  git add test.mv 
+  374  git add test.mv.db 
+  375  git add test.mv 
+  376  git add test.mv 
+  377  git init
+  378  git add .
+  379  git commit -m "first commit" 
+  380  git branch -M main 
+  381  git remote add origin https://github.com/VirHanna/JDBC_project.git 
+  382  git push -u origin main 
+  383  git init
+  384  git add .
+  385  git commit -m "first commit" 
+  386  git remote add origin https://github.com/VirHanna/JDBC_project.git 
+  387  git push -u origin main 
+  388  git init
+  389  git add .
+  390  git commit -m "first commit" 
+  391  git branch -M main 
+  392  git remote add origin https://github.com/VirHanna/JDBC_PreparedStatement.git 
+  393  git push -u origin main 
+  394  git status
+  395  git add .
+  396  git commit -m "Replaced Statement with PreparedStatement in DatabaseInitService.java" 
+  397  git push origin main
+  398   
+  399  git add .
+  400  git push origin main
+  401   
+  402  git init
+  403  git add .
+  404  git commit -m "first commit" 
+  405  git branch -M main 
+  406  git remote add origin https://github.com/VirHanna/JDBC_PreparedStatement.git 
+  407  git push -u origin main 
+  408  git init
+  409  git add .
+  410  git commit -m "first commit" 
+  411  git branch -M main 
+  412  git remote add origin https://github.com/VirHanna/HttpCodeToImage.git 
+  413  git push -u origin main 
+  414  git status
+  415  git add .
+  416  git commit -m "Replaced Statement with PreparedStatement in DatabasePopulateService.java"
+  417  git push origin main
+  418  git init
+  419  git add .
+  420  git commit -m "first commit" 
+  421  git branch -M main 
+  422  git remote add origin https://github.com/VirHanna/JDBC_FlyWay.git 
+  423  git push -u origin main 
+  424  git init
+  425  git add .
+  426  git commit -m "first commit" 
+  427  git remote add origin https://github.com/VirHanna/JDBC_FlyWay.git 
+  428  git push -u origin main 
+  429  git init
+  430  git add .
+  431  git commit -m "first commit" 
+  432  git branch -M main 
+  433  git remote add origin https://github.com/VirHanna/ServletsBasic.git 
+  434  git push -u origin main 
+  435  git init
+  436  git add .
+  437  git commit -m "first commit" 
+  438  git branch -M main 
+  439  git remote add origin https://github.com/VirHanna/Thymeleaf_cookie.git 
+  440  git push -u origin main 
+  441  git status
+  442  git add .
+  443  git commit -m "Changed TimeServlet.java and TimezoneValidateFilter.java"
+  444  git push origin main 
+  445  git status
+  446  git add .
+  447  git commit -m "Fixed bugs from module 10"
+  448  git push origin main
+  449   
+  450  git init
+  451  git add .
+  452  git commit -m "Project for module 12 and 13"
+  453  git branch -M main 
+  454  git remote add origin https://github.com/VirHanna/SpaceTravel.git 
+  455  git push -u origin main 
+  456  git add .
+  457  git commit -m "Project for module 12 and 13"
+  458  git push origin main
+  459  git init
+  460  git add .
+  461  git commit -m "Project for module 12 and 13"
+  462  git remote add origin https://github.com/VirHanna/SpaceTravel.git 
+  463  git push -u origin main 
+  464  git init
+  465  git add .
+  466  git config --global --add safe.directory C:/JV/Todolist
+  467   
+  468  git add .
+  469  git commit -m "first commit" 
+  470  git branch -M main 
+  471  git remote add origin https://github.com/VirHanna/Todolist.git 
+  472  git push -u origin main 
+  473  git status
+  474  git add .
+  475  git commit -m "TestController.java"
+  476  git push origin main
+  477  git init
+  478  git add .
+  479  git commit -m "first commit" 
+  480  git branch -M main 
+  481  git remote add origin https://github.com/VirHanna/Notes.git 
+  482  git push -u origin main 
+  483  git add .
+  484  git commit -m "NoteRepsonseDto, NoteRequestDto and NoteDtoMapper"
+  485  git push origin main
+  486  git init
+  487  git init
+  488  git add .
+  489  git commit -m "first commit" 
+  490  git branch -M main
+  491  git remote add origin https://github.com/VirHanna/CI_CD_project.git 
+  492  git push -u origin main 
+  493  git config --global user.name "Basha Hanna"
+  494  git config --global user.email "annabasha527@gmail.com" 
+  495  git config --list
+  496  git clone https://github.com/VirHanna/HW_10.git
+  497  cd HW_10
+  498  touch text_ignore.txt
+  499  echo "text_ignore.txt" >> .gitignore
+  500  git status
+  501  git add .
+  502  git commit -m "Add text_ignore.txt for .gitignore"
+  503  touch main_test.txt
+  504  git add .
+  505  git commit -m "Add main_test.txt file"
+  506  git checkout -b develop
+  507  touch develop_test.txt
+  508  git add .
+  509  git commit -m "Add empty develop_test.txt"
+  510  echo "just a small change" >> develop_test.txt
+  511  git status
+  512  git add .
+  513  git commit -m "Update develop_test.txt with text"
+  514  git checkout main
+  515  git merge develop
+  516  git log --oneline --graph
+  517  history > command_list.csv
